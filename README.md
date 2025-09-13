@@ -1,2 +1,2 @@
 # task_api
-A simple task api to perform basic HTTP methods 
+A simple task api to demonstrate basic HTTP methods 
